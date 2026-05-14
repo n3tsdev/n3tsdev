@@ -63,6 +63,8 @@
 ## Highlighted Project
 
 ### 🔬 [BLYLAB: Visual Assembly Frontend] 
+Website : https://018e5d5b-917b-4707-9e10-f2373f4fd767.cloud.ce.kmitl.ac.th/ 
+
 **A Modern 8-bit CPU Simulator & Educational Platform**
 
 * **Tech Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS.
