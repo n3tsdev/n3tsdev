@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prakan Suma</h1>
 <h3 align="center">A passionate Junior Full Stack Developer from Thailand 🇹🇭</h3>
-<h4 align="center"> 🚀 Actively looking for Web Developer opportunities! </h4>
+<h4 align="center">Actively looking for Web Developer opportunities!</h4>
 
 <p align="center">
   <a href="mailto:prakan.suma@gmail.com">
@@ -14,18 +14,12 @@
   </a>
 </p>
 
----
+* **Current Status:** Actively looking for a contract 6-12 month role as a **Junior Full Stack Developer**.
+* **Background:** I have a strong passion for building web applications and solving problems through code.
+* **Currently Learning:** Advanced CI/CD
+* **Fun fact:** “I enjoy learning new things and I don’t like staying in my comfort zone.”
 
-## 👨‍💻 About Me
-
-* 💼 **Current Status:** Actively looking for a contract 6-12 month role as a **Junior Full Stack Developer**.
-* 🎓 **Background:** I have a strong passion for building web applications and solving problems through code.
-* 🔜 **Currently Learning:** Advanced CI/CD
-* 🙂 **Fun fact:** “I enjoy learning new things and I don’t like staying in my comfort zone.”
-
----
-
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <p align="left">
   <strong>Frontend:</strong><br>
@@ -66,9 +60,7 @@
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
----
-
-## 💻 Highlighted Project
+## Highlighted Project
 
 ### 🔬 [BLYLAB: Visual Assembly Frontend] 
 **A Modern 8-bit CPU Simulator & Educational Platform**
@@ -80,11 +72,3 @@
     * **Hardware Visualization:** Virtual I/O handling for **HEX-Segment**, Console and LED-Panel
     * **Automated Grading:** Built an execution engine to verify student code against test cases with automated scoring.
     * **Clean Architecture:** Strict separation between CPU logic and React UI components for high maintainability.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n3tsdev&show_icons=true&theme=radium" alt="GitHub Stats" />
-</p>
